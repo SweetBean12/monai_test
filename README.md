@@ -19,7 +19,19 @@
 ├── main.py                                # Entry point for training/testing
 ├── requirements.txt                       # Environment dependencies
 └── README.md                              # Project documentation
-ˋˋˋ
 
-## 📁 Repository Structure
-Installation
+## 🚀 Quick Start
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/dawoodrehman44/ICASSP-2026.git
+cd ICASSP-2026
+
+# Create environment
+conda create -n bayesian_med python=3.8
+conda activate bayesian_med
+
+# Install dependencies
+pip install -r requirements.txt
+
